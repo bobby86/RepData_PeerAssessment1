@@ -1,6 +1,6 @@
-#Reproducible Research: Week-2 Peer Graded Assignment
-submitted by: Pradeep
-=====================================================
+Reproducible Research: Week-2 Peer Graded Assignment
+====================================================
+###submitted by: Pradeep
 
 ##Code for reading in the dataset and processing the data
 The data is read from the activity.csv file. The date and interval variables are modifed as date and factor datatypes respectively for easier grouping and plotting the data.
